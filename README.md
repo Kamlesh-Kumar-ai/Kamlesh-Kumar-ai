@@ -32,7 +32,7 @@ I help build **AI-powered backend systems**, **machine learning models**, and **
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kamlesh-Kumar-ai&show_icons=true)
 
 ---
 

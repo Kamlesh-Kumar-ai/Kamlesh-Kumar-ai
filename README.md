@@ -37,8 +37,9 @@ I help build **AI-powered backend systems**, **machine learning models**, and **
 ---
 
 ### 🔗 Connect With Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/kamlesh-k-bb9705247)
-- 📧 Email: kk919844@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/kamlesh-k-bb9705247)
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:kk919844@gmail.com)
+
 
 
 <!--

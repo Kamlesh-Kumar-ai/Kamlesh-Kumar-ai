@@ -8,54 +8,77 @@
 </p> 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=AI+Engineer;Machine+Learning+Developer;FastAPI+%2B+Django;Deep+Learning+Enthusiast">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=AI+Engineer;Machine+Learning+Engineer;FastAPI+%2B+Django;Deep+Learning+Enthusiast">
 </p>
 
-I design and build **scalable AI-powered backend systems**, **machine learning models**, and **LLM/RAG applications** that solve real-world business problems with production readiness.
+## 📖 About Me
 
----
+- 💻 Working on: AI + ML + Backend APIs  
+- 🌱 Learning: Deep Learning, LLMs, RAG  
+- 🤝 Collaboration: Open for AI/ML Projects  
+- 🚀 Current Project: Personal AI Chatbot  
+- 🎯 Goal: Become Expert in Deep Learning   
 
-### 🚀 Professional Summary
-- 💼 Working as a **Python AI/ML Engineer** on production-grade systems  
-- 🧠 Strong focus on **Machine Learning, Deep Learning, and Generative AI**  
-- ⚙️ Experienced in building **FastAPI-based ML/LLM backends**  
-- 🔍 Specialized in **Threat Detection, Anomaly Detection, and RAG systems**  
+## 🛠️ Tech Stack
 
----
+### 🚀 Languages
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 
-### 🛠 Technical Skills
-**Programming Languages:** Python, SQL  
+### ⚙️ Backend
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![Django](https://img.shields.io/badge/Django-green?style=for-the-badge&logo=django)
 
-**Machine Learning & Deep Learning:**  
-Scikit-learn, TensorFlow, CNN, RNN, LSTM, Transformers  
+### 🧠 ML & AI
+![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-blue?style=for-the-badge&logo=scikit-learn)
 
-**LLM & Generative AI:**  
-LangChain, Hugging Face, Retrieval-Augmented Generation (RAG)  
-
-**Backend Development:**  
-FastAPI, Django  
-
-**Databases & Vector Stores:**  
-Azure SQL, ChromaDB, FAISS  
-
-**DevOps & Tools:**  
-Docker, Git, GitHub  
-
----
-
+### ☁️ DevOps
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazon-aws)
 ### 📌 Featured Project
 🔐 **IPRanker – Intelligent Threat Detection System**  
 - ML-powered system for identifying **Proxy, Bot, TOR, VPN, and Blacklisted IPs**  
 - Implemented **real-time IP risk scoring and anomaly detection**  
 - Built using **FastAPI with ML/DL models** for scalable deployment  
 
----
+## 🛠️ Tech Stack
 
-### 📊 GitHub Statistics
-![Kamlesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kamlesh-Kumar-ai&show_icons=true&theme=tokyonight)
+### 🚀 Languages
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 
----
+### ⚙️ Backend
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![Django](https://img.shields.io/badge/Django-green?style=for-the-badge&logo=django)
 
-### 🔗 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamlesh-k-bb9705247)
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:kk919844@gmail.com)
+### 🧠 ML & AI
+![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-blue?style=for-the-badge&logo=scikit-learn)
+
+### ☁️ DevOps
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazon-aws)
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
+</p>
+
+## 📈 Contribution Graph
+
+[![Kamlesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark)](https://github.com/YOUR_USERNAME)
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical)
+## 📌 Featured Projects
+
+- 🔥 AI Chatbot (RAG + LLM)
+- 🏠 House Price Prediction (Django + ML)
+- 🎮 Temple Run Game (Pygame)

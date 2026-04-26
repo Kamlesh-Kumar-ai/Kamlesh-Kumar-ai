@@ -1,5 +1,15 @@
-## Hi 👋 I’m Kamlesh Kumar  
-### Python AI/ML Engineer | Machine Learning | FastAPI | Deep Learning  
+<h1 align="center">👋 Hey, I'm Kamlesh Kumar!</h1>
+<h3 align="center">AI/ML Enthusiast | Deep Learning | Backend Developer | FastAPI | </h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kamlesh-k-bb9705247">LinkedIn</a> •
+  <a href="https://kamlesh-kumar.netlify.app/">Portfolio</a> •
+  <a href="kk919844@gmail.com">Email</a>
+</p> 
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=AI+Engineer;Machine+Learning+Developer;FastAPI+%2B+Django;Deep+Learning+Enthusiast">
+</p>
 
 I design and build **scalable AI-powered backend systems**, **machine learning models**, and **LLM/RAG applications** that solve real-world business problems with production readiness.
 

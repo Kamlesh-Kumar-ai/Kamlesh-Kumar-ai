@@ -54,24 +54,6 @@
 - Implemented **real-time IP risk scoring and anomaly detection**  
 - Built using **FastAPI with ML/DL models** for scalable deployment  
 
-## 🛠️ Tech Stack
-
-### 🚀 Languages
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-
-### ⚙️ Backend
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![Django](https://img.shields.io/badge/Django-green?style=for-the-badge&logo=django)
-
-### 🧠 ML & AI
-![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-blue?style=for-the-badge&logo=scikit-learn)
-
-### ☁️ DevOps
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
-![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazon-aws)
-
 ## 📊 GitHub Stats
 
 <p align="center">

@@ -11,13 +11,17 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=AI+Engineer;Machine+Learning+Engineer;FastAPI+%2B+Django;Deep+Learning+Enthusiast">
 </p>
 
-## 📖 About Me
+## 👨‍💻 About Me
 
-- 💻 Working on: AI + ML + Backend APIs  
-- 🌱 Learning: Deep Learning, LLMs, RAG  
-- 🤝 Collaboration: Open for AI/ML Projects  
-- 🚀 Current Project: Personal AI Chatbot(RAG based)
-- 🎯 Goal: Become Expert in AI/ML Engineer  
+I am a passionate Python Developer and AI/ML Engineer with hands-on experience in building intelligent systems and scalable backend applications. With 1+ year of experience working on real-world machine learning projects, I focus on transforming data into impactful solutions.
+
+I specialize in Machine Learning, Deep Learning, and backend development using FastAPI and Django, along with experience in building AI-powered applications like RAG-based chatbots and predictive models.
+
+🔭 Working on: AI Chatbot (RAG + LLM) & ML-based projects  
+🌱 Learning: Advanced Deep Learning, LLMs, and MLOps  
+👯 Collaboration: Open to AI/ML and backend projects  
+🏗️ In Progress: Deploying ML models with FastAPI & Docker  
+💡 Goal: Become an expert in Deep Learning & Generative AI   
 
 ## 🛠️ Tech Stack
 ## 🚀 Languages & AI Foundations

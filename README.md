@@ -115,6 +115,16 @@ I specialize in Machine Learning, Deep Learning, and backend development using F
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=Kamlesh-Kumar-ai&theme=radical)
+
+## 📜 Certifications & Learning
+
+🎓 Machine Learning Certification (3 Months)  
+🐍 Python for Data Science & Machine Learning  
+🤖 Deep Learning & Neural Networks (Ongoing)  
+🧠 Generative AI & LLMs (LangChain, RAG, HuggingFace)  
+☁️ AWS (SageMaker, Deployment & ML Workflows)  
+⚙️ Backend Development (FastAPI, Django, PostgreSQL)  
+
 ## 📌 Featured Projects
 
 - 🔥 AI Chatbot (RAG + LLM)

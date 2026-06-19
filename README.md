@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey, I'm Kamlesh Kumar!</h1>
-<h3 align="center">Data Scientist Enthusiast | Machine learning | Deep Learning | Backend Developer | FastAPI | </h3>
+<h3 align="center">Data Scientist Enthusiast | ML/DL | Backend Developer | FastAPI | </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kamlesh-k-bb9705247">LinkedIn</a> •
